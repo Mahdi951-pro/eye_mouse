@@ -19,7 +19,7 @@ Make sure you have the following Python packages installed:
 
 You can install them using pip:
 
-```bash
+bash
 pip install opencv-python mediapipe pyautogui
 Usage
 Clone the Repository:
